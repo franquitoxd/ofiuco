@@ -1,0 +1,43 @@
+body {
+      margin: 0;
+      padding: 40px 20px;
+      font-family: 'Segoe UI', sans-serif;
+      background: url('https://wallpapers.com/images/hd/4k-star-7vw5pckyudpstxoq.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: rgba(0, 0, 0, 0.75);
+      padding: 40px;
+      border-radius: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .volver {
+      display: block;
+      margin-bottom: 20px;
+      text-align: center;
+      color: #fff;
+      text-decoration: none;
+      background-color: rgba(255, 255, 255, 0.2);
+      padding: 10px 20px;
+      border-radius: 10px;
+      transition: background 0.3s;
+    }
+
+    .volver:hover {
+      background-color: rgba(255, 255, 255, 0.4);
+    }
+
+    p {
+      line-height: 1.8;
+      font-size: 1.1em;
+      text-align: justify;
+    }
